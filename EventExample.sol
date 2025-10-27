@@ -10,4 +10,4 @@ contract EventExample {
         emit ValueChanged(msg.sender, value, _newValue);
         value = _newValue;
     }
-}sssss
+}ssssss
